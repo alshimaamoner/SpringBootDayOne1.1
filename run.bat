@@ -1,0 +1,1 @@
+Java -jar ./target/labOne-1.0-SNAPSHOT.jar --server.port=8030
